@@ -26,8 +26,6 @@ fun App() {
         var showContent by remember { mutableStateOf(false) }
 
         Column(
-            //modifier = Modifier.fillMaxWidth(),
-            //horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Text("Halo, Nama saya Syahrul Afwan!")
             Text("NIM: 124140096")

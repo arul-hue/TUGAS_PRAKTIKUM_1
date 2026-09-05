@@ -5,4 +5,4 @@
 **Kelas:** Pengembangan Aplikasi Mobile RB
 
 ## Screenshot Hasil
-![Hasil Aplikasi](screenshot_app.png)
+![Hasil Aplikasi](ss_hasil.png)
