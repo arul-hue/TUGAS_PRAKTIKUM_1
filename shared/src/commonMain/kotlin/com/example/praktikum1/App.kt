@@ -26,7 +26,11 @@ fun App() {
         var showContent by remember { mutableStateOf(false) }
 
         Column(
-        ) {
+            modifier = Modifier
+                .fillMaxSize()
+                .safeContentPadding(),
+        )
+        {
             Text("Halo, Nama saya Syahrul Afwan!")
             Text("NIM: 124140096")
             Text("Platform: ${getPlatform().name}")
